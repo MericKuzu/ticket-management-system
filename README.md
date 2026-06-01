@@ -100,3 +100,6 @@ Proje klasörünü XAMPP içindeki `htdocs` klasörüne koyun.
 Örnek:
 ```bash
 C:\xampp\htdocs\TicketSystem
+
+<img width="1919" height="965" alt="image" src="https://github.com/user-attachments/assets/39a48b0f-6793-4711-921e-c94dc388dddf" />
+
